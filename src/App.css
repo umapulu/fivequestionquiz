@@ -1,0 +1,30 @@
+/* Centers everything in the app */
+.App {
+  text-align: center;
+}
+
+/* styles all of the buttons in the program */
+.App button {
+  border: 1px solid blue;
+  padding: 16px;
+  background-color: green;
+  font: inherit;
+  color: white;
+  cursor: pointer;
+}
+
+/* CHanges color of the button when hovering */
+.App button:hover {
+  background-color: lightgreen;
+  color: black;
+}
+
+/* creates the formatting around each question*/
+.box {
+  width: 60%;
+  margin: 16px auto;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 16px;
+  text-align: center;
+}

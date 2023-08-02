@@ -1,0 +1,77 @@
+/* creates the formatting around each question*/
+.question {
+    width: 60%;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+}
+/* sets a minimum width so element is not distorted */
+@media (min-width: 500px) {
+    .question {
+        width: 450px;
+    }
+}
+/* Dropdown Button CSS*/
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 4px;
+    font-size: 16px;
+    min-width: 160px; 
+    cursor: pointer;
+    
+  }
+  
+  /* formatting for the whole dropdown */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content Formatting */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #98b2d4;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    
+  }
+  
+  /* Each item inside the dropdown */
+  .dropdown-content div {
+    color: black;
+    padding: 5px 5px;
+    display: block;
+    
+  }
+
+/* hides radio button and sets cursor */
+  .dropdown-content input[type="radio"] {
+   color: black;
+   cursor: pointer;
+   display: none;
+  }
+
+  /* allows the entire input to be clicked and highlighted */
+  .dropdown-content input[type="radio"]:checked + label {
+        background-color: #bfb;
+        cursor: pointer;
+        
+  }
+  /* highlights and changes cursor when hovering */
+  .dropdown-content input[type="radio"]:hover + label {
+    background-color: rgb(176, 209, 240);
+    cursor: pointer;
+    
+}
+  /* Change color of dropdown links on hover */
+  .dropdown-content div:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+ 

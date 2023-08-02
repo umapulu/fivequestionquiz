@@ -1,0 +1,403 @@
+[   
+    {
+        "id" : 1,
+        "question" : "What is the 2020-2021 membership theme for FBLA?",
+        "answer" : "Aspire",
+        "options" : ["Aspire","Dream", "Hard work makes the dream work", "Chase your goals"],
+        "qType" : "mc"  
+    },
+
+    {
+        "id" : 2,
+        "question" :"Where is nationals this year?",
+        "answer" : "Anaheim",
+        "options" : ["Anaheim","Chicago", "Atlanta", "Seattle"],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 3,
+        "question" : "The first line of the FBLA creed is: I believe education is the right of every person",
+        "answer" : "True",
+        "options" : ["True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 4,
+        "question" : "Which attire is acceptable for FBLA activities",
+        "answer" : "Formal Business Attire",
+        "options" : ["Business Casual", "Formal Business Attire","Casual", "Black Tie Only"],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 5,
+        "question" :"What charitable organization does FBLA primarily support?",
+        "answer" : "March of Dimes",
+        "options" : ["American Heart Association", "March of Dimes","Feed My Starving Children", "FBLA Scholarship Foundation"],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 6,
+        "question" :"The parliamentary procedures that FBLA follows come from Richard's Rules",
+        "answer" : "False",
+        "options" : ["True","False"],
+        "qType" : "tf"
+        },
+
+    {
+        "id" : 7,
+        "question" :"The concept of FBLA was developed at what university?",
+        "answer" : "Columbia",
+        "options" : ["Columbia","Harvard", "Boston College", "UPenn"],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 8,
+        "question" :"FBLA was first created by a group of talented high schoolers.",
+        "answer" : "True",
+        "options" : ["True", "False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 9,
+        "question" :"When is American Enterprise Day?",
+        "answer" : "November 15.",
+        "options" : ["January 16", "February 22", "May 3", "November 15."],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 10,
+        "question" :"When is National Community Service Day?",
+        "answer" : "February 15.",
+        "options" : ["January 16", "October 9","February 15.", "June 8"],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 11,
+        "question" :"Dr. Hamden L. Forkner developed the concept of FBLA",
+        "answer" : " True",
+        "options" : [" True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 12,
+        "question" :"Number of FBLA members in 13,000 chartered chapters in the United States, Puerto Rico, Bermuda, the Virgin Islands, Guam, the Cayman Islands, and the Department of the Defense Schools worldwide.",
+        "answer" : "250,000",
+        "options": [],
+        "qType" : "ni"
+    },
+
+    {   "id" : 13,
+        "question" :"The number of administrative regions FBLA-PBL is divided into.",
+        "answer" : "5",
+        "options": [],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 14,
+        "question" :"FBLA-PBL Week is held during this month.",
+        "answer" : "February",
+        "options" : ["March", "February","October", "May"],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 15,
+        "question" :"The official national website address of FBLA-PBL",
+        "answer" : "www.fbla-pbl.org",
+        "options" : ["www.fbla.org","www.fbla-pbl.org", "www.fblapbl.org", "www.pbl-fbla.org"],
+        "qType" : "mc"
+    },
+
+    {   
+        "id" : 16,
+        "question" :"The location where the first FBLA local chapter was organized is",
+        "answer" : "Johnson City",
+        "options" : ["Philadelphia", "Johnson City", "Kenosha", "New York City"],
+        "qType" : "dd"
+    },
+
+    {
+        "id" : 17,
+        "question" :"The minimum number of members required to start a new/reactivated chapter in FBLA-ML.",
+        "answer" : "3",
+        "options" :[],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 18,
+        "question" :"A formal proposal by a member suggesting that the assembly take a certain action is called a: ",
+        "answer" : "Motion",
+        "options" : ["Call", "Request", "Amendment", "Motion"],
+        "qType" : "dd"
+    
+    },
+
+    {
+        "id" : 19,
+        "question" :"The chapter officer who prepares and reads the minutes of meetings is called the: ",
+        "answer" : "Secretary",
+        "options" : ["Secretary","Vice President", "Note Taker", "Scribe"],
+        "qType" : "dd"
+    },
+
+    {
+        "id" : 20,
+        "question" :"The chapter officer who assists the president in the discharge of duties and presides at the meetings in the absence of the president",
+        "answer" : "Vice President",
+        "options" : ["Assistant to the President","Vice President", "Quorum Keeper", "Secretary"],
+        "qType" : "dd"
+   
+    },
+
+    {
+        "id" : 21,
+        "question" :"Any summary of principles or opinions professed or adhered to is called a:",
+        "answer" : "Creed",
+        "options" : ["Promise", "Pledge", "Creed", "Profession"],
+        "qType" : "dd"
+    
+    },
+
+    {
+        "id" : 22,
+        "question" :"National Officers announced every year at the Awards of Excellence Program at the National Leadership Conference",
+        "answer" : "True",
+        "options" : ["True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 23,
+        "question" :"How many events can you compete in per year in FBLA?",
+        "answer" : "1",
+        "options":[],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 24,
+        "question" :"The 2017/2018 national membership theme is: Create Your Future",
+        "answer" : "False",
+        "options" : ["True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 25,
+        "question" :"The event CSA stands for: ",
+        "answer" : "Community Service Achievement",
+        "options" : ["Community Service Achievement", "Communications Efficiency Assessment", "Computer Science Application", "Curtain Silly Alphabet"],
+        "qType" : "dd"
+    },
+
+    {
+        "id" : 26,
+        "question" :"How many people from each state are eligible to compete at nationals in a given event?",
+        "answer" : "4",
+        "options":[],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 27,
+        "question" :"Every fall, the National Fall Leadership Conference is held in three cities.",
+        "answer" : "True",
+        "options" : ["True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 28,
+        "question" :"How many total elected national officers are there?",
+        "answer" : "8",
+        "options":[],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 29,
+        "question" :"Every spring, each state hosts a competition called: ",
+        "answer" : "State Leadership Conference",
+        "options" : ["Business Leaders Competition", "State FBLA Demonstrations", "FBLA State Conference", "State Leadership Conference"],
+        "qType" : "dd"
+    },
+
+    {
+        "id" : 30,
+        "question" :"How many people from each chapter can compete in a given competitive event?",
+        "answer" : "3",
+        "options" : [],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 31,
+        "question" :"The CEO of FBLA is: ",
+        "answer" : "Jean Buckley",
+        "options" : ["Frederick Douglass", "Mariam Forner", "William Brighton", "Jean Buckley"],
+        "qType" : "dd"
+    },
+
+    {
+        "id" : 32,
+        "question" :"There are over __ competitive events in FBLA?",
+        "answer" : "60",
+        "options" : [],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 33,
+        "question" :"The BAA program stands for: ",
+        "answer" : "Business Achievement Awards",
+        "options" : ["Business Acclimation Association","Business Achievement Awards", "Business Ability Assessment", "Blue Atrocious Apple"],
+        "qType" : "dd"
+    },
+
+    {
+        "id" : 34,
+        "question" :"The Parliamentary Procedure competitive event is used to choose the National Parliamentarian",
+        "answer" : "True",
+        "options" : ["True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 35,
+        "question" :"The National President is a member of the executive board and is voted on by state voting delegates",
+        "answer" : "True",
+        "options" : ["True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 36,
+        "question" :"The FBLA division for the youngest members is: ",
+        "answer" : "FBLA-ML",
+        "options" : ["FBLA-YL","FBLA-ML", "FBLA-MS", "FBLA-Prep"],
+        "qType" : "dd"
+    },
+
+    {
+        "id" : 37,
+        "question" :"States have the opportunity to have a State Fall Leadership Conference in the fall",
+        "answer" : "True",
+        "options" : [ "True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 38,
+        "question" :"How many national officers can run for national office from each state per year?",
+        "answer" : "1",
+        "options" : [],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 39,
+        "question" :"How old is FBLA?",
+        "answer" : "81",
+        "options" : [],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 40,
+        "question" :"PBL stands for:",
+        "answer" : "Phi Beta Lambda",
+        "options" : ["Purple Blue Leaves", "Professional Business Leaders","Phi Beta Lambda", "Providing Business Leaders"],
+        "qType" : "dd"
+    },
+
+    {
+        "id" : 41,
+        "question" :"When was FBLA founded?",
+        "answer" : "1940",
+        "options" : [],
+        "qType" : "ni"
+    },
+
+    {
+        "id" : 42,
+        "question" :"Hamden L. Forkner founded FBLA.",
+        "answer" : "True",
+        "options" : ["True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 43,
+        "question" :"Where are the FBLA headquarters",
+        "answer" : "Virginia",
+        "options" : ["Florida", "California","Virginia", "New York"],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 44,
+        "question" :"Which state has the largest FBLA membership?",
+        "answer" : "Florida",
+        "options" : ["Virginia","Florida", "Illinois", "New York"],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 45,
+        "question" :"The official FBLA colors are: ",
+        "answer" : "Blue and Gold",
+        "options" : ["Grey and Blue", "Gold and Green", "Green and Grey", "Blue and Gold"],
+        "qType" : "dd"
+    },
+
+    {
+        "id" : 46,
+        "question" :"FBLA members have access to exclusive scholarships",
+        "answer" : "True",
+        "options" : ["True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 47,
+        "question" :"FBLA stands for Future Business Leaders of America",
+        "answer" : "True",
+        "options" : ["True","False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 48,
+        "question" :"Which state had the first FBLA chapter?",
+        "answer" : "Iowa",
+        "options" : ["Tennesese","Iowa", "Colorado", "Illinois"],
+        "qType" : "mc"
+    },
+
+    {
+        "id" : 49,
+        "question" :"Alexandria Graham is the president and chief executive officer of FBLA",
+        "answer" : "False",
+        "options" : ["True", "False"],
+        "qType" : "tf"
+    },
+
+    {
+        "id" : 50,
+        "question" :"What is the smallest grade you have to be to be a part of FBLA?",
+        "answer" : "5",
+        "options" : [],
+        "qType" : "ni"
+    }
+]
